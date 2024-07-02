@@ -1,0 +1,27 @@
+div{
+    text-align: center;
+    width: 50%;
+}
+p{
+    width: 50%;
+    text-align: center;
+    text-align-last: left;
+    text-decoration:underline greenyellow 5px;
+    text-transform:capitalize;
+    
+}
+#align{
+    text-align: justify;
+    width: 50%;
+    text-decoration: none;
+    text-indent: 50%;
+    letter-spacing: 5px;
+    line-height: 20px;
+    word-spacing: 5px;
+    white-space: nowrap;
+    text-shadow: 2px 2px;
+}
+#P{
+text-shadow: 2px 2px 5px; color: blueviolet; 
+font-size: 100px;
+}
